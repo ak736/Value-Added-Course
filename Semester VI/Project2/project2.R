@@ -82,3 +82,22 @@ ggplot(Titanic, aes(x = age, fill = survived)) + theme_bw() +
   facet_wrap(sex~pclass) + geom_density(alpha = 0.5) + 
   labs(y = "age", x = "survived", 
        title = "Titanic survival rate by age, class and gender")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Aniket_RA2011026020074
