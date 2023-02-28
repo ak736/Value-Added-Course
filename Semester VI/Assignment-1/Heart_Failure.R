@@ -76,33 +76,11 @@ ggplot(Df1, aes(x = age, y = bmi, color=bmi)) +
   labs(x="Age", y="BMI", title = "Age and BMI (used jitter to show distribution)")
 
 
+
+
+
+
+
+
+
 #Aniket_RA2011026020074
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Bharathwaj065
