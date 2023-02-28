@@ -25,3 +25,16 @@ ggplot(salary,aes(x=Experience,y=Salary))+
 
 ggplot(salary,aes(x=Experience,y=Salary))+
   geom_boxplot()
+
+
+
+
+
+
+
+
+
+
+
+
+#Aniket_RA2011026020074
