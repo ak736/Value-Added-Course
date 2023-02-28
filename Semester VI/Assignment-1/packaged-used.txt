@@ -1,16 +1,16 @@
 Distill is a package built for R Markdown, an ecosystem of packages for creating computational documents in R.
 
-knitr does the work to evaluate the code, putting the results in a markdown document, which can then be converted 
+Dplyr aims to provide a function for each basic verb of data manipulation. These verbs can be organised into three
+categories based on the component of the dataset that they work with.
+
+Devtools: Tools to Make Developing R Packages Easier. Collection of package development tools. 
+(was installed due to few pkg file installation inconsistency)
+
+Knitr does the work to evaluate the code, putting the results in a markdown document, which can then be converted 
 to a variety of formats with pandoc.Also,with lightweight API's designed to give users full control of the output
 without heavy coding work.
 
-tidyverse is a set of packages that work in harmony because they share common data representations and 'API' design
+Tidyverse is a set of packages that work in harmony because they share common data representations and 'API' design
 
-readr is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data 
+Readr is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data 
 unexpectedly changes
-
-dplyr aims to provide a function for each basic verb of data manipulation. These verbs can be organised into three
-categories based on the component of the dataset that they work with.
-
-devtools: Tools to Make Developing R Packages Easier. Collection of package development tools. 
-(was installed due to few pkg file installation inconsistency)
